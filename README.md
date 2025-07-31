@@ -153,6 +153,12 @@ CSV parsing is robust to encoding/memory issues
   "input": "Description: The app works well.\nRemarks:\n- Very smooth experience\n- Fast loading",
   "output": "yes"
 }
+
+screenshot: 
+<img width="1844" height="636" alt="image" src="https://github.com/user-attachments/assets/6591cae9-27da-4ea1-a04b-8f308e5e5c9d" />
+<img width="1873" height="309" alt="image" src="https://github.com/user-attachments/assets/922154c9-ce0b-4b62-9054-d464a76ddf25" />
+<img width="1919" height="872" alt="image" src="https://github.com/user-attachments/assets/84542272-74fc-48cd-8969-b91e10dfc422" />
+
 🤝 Credits
 Developed by: Avanindra Vijay
 Technologies: Hugging Face Transformers, PEFT, Chainlit, Scikit-learn, mBERT
