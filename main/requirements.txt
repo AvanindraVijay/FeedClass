@@ -1,0 +1,12 @@
+chainlit
+torch
+transformers
+peft
+numpy
+accelerate
+bitsandbytes
+datasets
+scikit-learn
+
+sentence-transformers
+pickle-mixin
